@@ -1,0 +1,40 @@
+{
+  "C_Cpp_Runner.cCompilerPath": "C:\\MinGW\\bin\\gcc.exe",
+  "C_Cpp_Runner.cppCompilerPath": "C:\\MinGW\\bin\\g++.exe",
+  "C_Cpp_Runner.debuggerPath": "C:\\MinGW\\bin\\gdb.exe",
+  "C_Cpp_Runner.makePath": "C:\\MinGW\\bin\\make.exe",
+  "C_Cpp_Runner.warnings": [
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic"
+  ],
+  "C_Cpp_Runner.compilerArgs": [],
+  "C_Cpp_Runner.includePaths": [],
+  "C_Cpp_Runner.linkerArgs": [],
+  "C_Cpp_Runner.cStandard": "",
+  "C_Cpp_Runner.cppStandard": "",
+  "C_Cpp_Runner.excludeSearch": [],
+  "C_Cpp_Runner.enableWarnings": true,
+  "C_Cpp_Runner.warningsAsError": false,
+  "files.associations": {
+    "Ex01.C": "cpp",
+    "Ex05.C": "cpp",
+    "Ex03.C": "cpp",
+    "Ex08.C": "cpp",
+    "Ex02.C": "cpp",
+    "Ex04.C": "cpp",
+    "Ex06.C": "cpp",
+    "Ex07.C": "cpp",
+    "Ex10.C": "cpp",
+    "Ex14.C": "cpp",
+    "Ex12.C": "cpp",
+    "Ex15.C": "cpp",
+    "Ex09.C": "cpp",
+    "Ex13.C": "cpp",
+    "Ex11.C": "cpp",
+    "Ex17.C": "cpp",
+    "Ex18.C": "cpp",
+    "Ex16.C": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "Disabled"
+}
